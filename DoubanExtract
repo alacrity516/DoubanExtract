@@ -3,7 +3,7 @@
 // @namespace    https://kisexu.com/
 // @version      0.1.1
 // @description  将豆瓣导出为csv文件。启用本脚本，进入豆瓣个人页面后，在『我看』部分会有一链接『导出看过电影』，点击即可。无需登录，支持导出任意用户已看电影。
-// @author       KiseXu alacrity516
+// @author       KiseXu 
 // @copyright 2018, KiseXu (https://kisexu.com)
 // @license MIT
 // @match        https://movie.douban.com/people/*/collect*
